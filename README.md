@@ -1,1 +1,14 @@
 # rasp-two-wifi
+
+```
+nmcli connection show
+
+sudo nmcli connection clone <ID_OF_OLD_CONFIGURATION> new_conf
+
+sudo nmcli connection edit new_conf
+
+	set 802-11-wireless.ssid <SECOND_SSID>
+	set 802-11-wireless-security.psk <PASSWORD>
+	save persistent
+	quit
+```

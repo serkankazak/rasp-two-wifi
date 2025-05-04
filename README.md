@@ -12,3 +12,7 @@ sudo nmcli connection edit new_conf
 	save persistent
 	quit
 ```
+
+https://www.youtube.com/watch?v=49LSgdXCdEM
+
+[![demo](http://img.youtube.com/vi/49LSgdXCdEM/0.jpg)](http://www.youtube.com/watch?v=49LSgdXCdEM "demo")

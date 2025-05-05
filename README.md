@@ -1,4 +1,4 @@
-# rasp-two-wifi
+### How to setup two wifi on raspberry pi?
 
 ```
 nmcli connection show

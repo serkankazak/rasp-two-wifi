@@ -1,4 +1,4 @@
-### How to setup two wifi on raspberry pi?
+### How to setup two wifi on raspberry pi Bookworm?
 
 ```
 nmcli connection show
